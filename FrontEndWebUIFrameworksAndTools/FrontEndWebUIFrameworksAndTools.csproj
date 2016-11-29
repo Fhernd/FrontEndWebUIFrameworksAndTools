@@ -65,6 +65,10 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\font-awesome.css" />
     <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\W3S6C2T4-mystyles.css" />
+    <Content Include="css\W3S5C4-mystyles.css" />
+    <Content Include="css\W3S3C5-mystyles.css" />
+    <Content Include="css\W3S2C4-mystyles.css" />
     <Content Include="css\W2S5C2A2-mystyles.css" />
     <Content Include="css\W1S4C5-mystyles.css" />
     <Content Include="css\W1S3C4-mystyles.css" />
@@ -92,6 +96,15 @@
     <Content Include="W2\W2S3C4-index.html" />
     <Content Include="W2\W2S2C4-aboutus.html" />
     <Content Include="W2\W2S1C5-contactus.html" />
+    <Content Include="W3\W3S6C2T4-index.html" />
+    <Content Include="W3\W3S6C2T3-index.html" />
+    <Content Include="W3\W3S6C2T2-index.html" />
+    <Content Include="W3\W3S6C2T1-index.html" />
+    <Content Include="W3\W3S6C2T0-index.html" />
+    <Content Include="W3\W3S5C4-index.html" />
+    <Content Include="W3\W3S4C3-index.html" />
+    <Content Include="W3\W3S3C5-aboutus.html" />
+    <Content Include="W3\W3S2C4-aboutus.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
