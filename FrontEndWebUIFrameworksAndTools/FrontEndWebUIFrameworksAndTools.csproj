@@ -216,6 +216,7 @@
     <Content Include="css\W2S5C2A2-mystyles.css" />
     <Content Include="css\W1S4C5-mystyles.css" />
     <Content Include="css\W1S3C4-mystyles.css" />
+    <Content Include="css\mystyles.css" />
     <Content Include="css\W4S3C4-mystyles.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -223,7 +224,6 @@
     <Content Include="img\buffet.png" />
     <Content Include="img\logo.png" />
     <Content Include="img\uthappizza.png" />
-    <Content Include="index.html" />
     <Content Include="W1\W1S4C5-index.html" />
     <Content Include="W1\W1S3C4-index.html" />
     <Content Include="W1\W1S2C6-index.html" />
@@ -234,6 +234,7 @@
     <Content Include="W1\W1S5C2A1T2-aboutus.html" />
     <Content Include="W1\W1S5C2A1T1-aboutus.html" />
     <Content Include="W1\W1S5C2A1T0-aboutus.html" />
+    <Content Include="contactus.html" />
     <Content Include="W2\W2S3C4-contactus.html" />
     <Content Include="W2\W2S3C4-aboutus.html" />
     <Content Include="W2\W2S5C2A2T2-T4-index.html" />
@@ -242,6 +243,7 @@
     <Content Include="W2\W2S3C4-index.html" />
     <Content Include="W2\W2S2C4-aboutus.html" />
     <Content Include="W2\W2S1C5-contactus.html" />
+    <Content Include="aboutus.html" />
     <Content Include="W3\W3S6C2T4-index.html" />
     <Content Include="W3\W3S6C2T3-index.html" />
     <Content Include="W3\W3S6C2T2-index.html" />
@@ -251,6 +253,7 @@
     <Content Include="W3\W3S4C3-index.html" />
     <Content Include="W3\W3S3C5-aboutus.html" />
     <Content Include="W3\W3S2C4-aboutus.html" />
+    <Content Include="index.html" />
     <Content Include="W4\W4S5C2T3-index.html" />
     <Content Include="W4\W4S5C2T1-index.html" />
     <Content Include="W4\W4S5C2T0-index.html" />
@@ -428,7 +431,6 @@
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="css\W4S3C4-mystyles.less" />
     <None Include="lib\default.js" />
-    <None Include="index_o.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">
